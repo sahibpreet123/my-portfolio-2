@@ -1,0 +1,10 @@
+.resources-section {
+    display: flex;
+    flex-direction: column;
+    padding: 20px;
+  }
+  
+  .resource-item + .resource-item {
+    margin-top: 20px;
+  }
+  
